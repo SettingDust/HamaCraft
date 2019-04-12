@@ -1,0 +1,51 @@
+{
+  "last": "HamaGame",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": ".minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "theme": "#1e88e5",
+  "localization": "def",
+  "downloadType": "bmclapi",
+  "configurations": {
+    "HamaGame": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 2048,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ""
+      },
+      "gameDir": "HamaGame",
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "HamaGame-1.0"
+    }
+  },
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 500,
+  "authlibInjectorServers": [],
+  "updateChannel": "STABLE",
+  "_version": 0,
+  "uiVersion": 0,
+  "preferredLoginType": "offline"
+}

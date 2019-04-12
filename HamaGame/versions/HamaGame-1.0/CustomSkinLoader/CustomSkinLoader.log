@@ -1,0 +1,55 @@
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] CustomSkinLoader 14.6a
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] DataDir: F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] Minecraft: 1.0(HamaGame-1.0)
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] Config File: F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\CustomSkinLoader.json
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] Try to load config.
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] Successfully load config.
+[2019-04-11 22:43:01] [pool-3-thread-1 INFO] Enable:true, EnableSkull:true, EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:10, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:5
+[2019-04-11 22:43:01] [SettingDust INFO] Loading SettingDust's profile.
+[2019-04-11 22:43:01] [SettingDust INFO] 1/5 Try to load profile from 'Mojang'.
+[2019-04-11 22:43:01] [SettingDust INFO] Try to request 'https://api.mojang.com/users/profiles/minecraft/SettingDust'.
+[2019-04-11 22:43:01] [SettingDust INFO] Cache file found (Length: 0 , Path: 'F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\caches\8a3e9371d7adf9fb7f17f2f13916748229a191ab')
+[2019-04-11 22:43:01] [SettingDust INFO] Try to load from cache 'F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\caches\8a3e9371d7adf9fb7f17f2f13916748229a191ab'.
+[2019-04-11 22:43:01] [SettingDust INFO] Successfully to load from cache
+[2019-04-11 22:43:01] [SettingDust INFO] Profile not found.(SettingDust's profile not found.)
+[2019-04-11 22:43:01] [SettingDust INFO] 2/5 Try to load profile from 'BlessingSkin'.
+[2019-04-11 22:43:01] [SettingDust INFO] Try to request 'http://skin.prinzeugen.net/SettingDust.json'.
+[2019-04-11 22:43:15] [SettingDust INFO] Failed to request (Exception: java.net.SocketTimeoutException: Read timed out)
+[2019-04-11 22:43:15] [SettingDust INFO] Profile not found.
+[2019-04-11 22:43:15] [SettingDust INFO] 3/5 Try to load profile from 'OneSkin'.
+[2019-04-11 22:43:15] [SettingDust INFO] Try to request 'http://fleey.org/skin/skin_user/skin_json.php/SettingDust.json'.
+[2019-04-11 22:43:15] [SettingDust INFO] Failed to request (Exception: java.net.UnknownHostException: fleey.org)
+[2019-04-11 22:43:15] [SettingDust INFO] Profile not found.
+[2019-04-11 22:43:15] [SettingDust INFO] 4/5 Try to load profile from 'SkinMe'.
+[2019-04-11 22:43:15] [SettingDust INFO] Try to request 'http://www.skinme.cc/uniskin/SettingDust.json'.
+[2019-04-11 22:43:15] [SettingDust INFO] Successfully request (Response Code: 200 , Content Length: -1)
+[2019-04-11 22:43:15] [SettingDust INFO] Saved to cache (Length: 37 , Path: 'F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\caches\bf210352d6e3a7550721e87ba85140344b28ad14' , Expire: 1554993857)
+[2019-04-11 22:43:15] [SettingDust INFO] Content: {"errno":404,"msg":"User not found."}
+[2019-04-11 22:43:15] [SettingDust INFO] Error 404: User not found.
+[2019-04-11 22:43:15] [SettingDust INFO] 5/5 Try to load profile from 'LocalSkin'.
+[2019-04-11 22:43:15] [SettingDust INFO] Both skin and cape not found.
+[2019-04-11 22:43:15] [SettingDust INFO] SettingDust's profile not found in load list.
+[2019-04-11 22:57:33] [SettingDust INFO] Loading SettingDust's profile.
+[2019-04-11 22:57:33] [SettingDust INFO] 1/5 Try to load profile from 'Mojang'.
+[2019-04-11 22:57:33] [SettingDust INFO] Try to request 'https://api.mojang.com/users/profiles/minecraft/SettingDust'.
+[2019-04-11 22:57:33] [SettingDust INFO] Cache file found (Length: 0 , Path: 'F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\caches\8a3e9371d7adf9fb7f17f2f13916748229a191ab')
+[2019-04-11 22:57:33] [SettingDust INFO] Try to load from cache 'F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\caches\8a3e9371d7adf9fb7f17f2f13916748229a191ab'.
+[2019-04-11 22:57:33] [SettingDust INFO] Successfully to load from cache
+[2019-04-11 22:57:33] [SettingDust INFO] Profile not found.(SettingDust's profile not found.)
+[2019-04-11 22:57:33] [SettingDust INFO] 2/5 Try to load profile from 'BlessingSkin'.
+[2019-04-11 22:57:33] [SettingDust INFO] Try to request 'http://skin.prinzeugen.net/SettingDust.json'.
+[2019-04-11 22:57:46] [SettingDust INFO] Failed to request (Exception: java.net.SocketTimeoutException: Read timed out)
+[2019-04-11 22:57:46] [SettingDust INFO] Profile not found.
+[2019-04-11 22:57:46] [SettingDust INFO] 3/5 Try to load profile from 'OneSkin'.
+[2019-04-11 22:57:46] [SettingDust INFO] Try to request 'http://fleey.org/skin/skin_user/skin_json.php/SettingDust.json'.
+[2019-04-11 22:57:47] [SettingDust INFO] Failed to request (Exception: java.net.UnknownHostException: fleey.org)
+[2019-04-11 22:57:47] [SettingDust INFO] Profile not found.
+[2019-04-11 22:57:47] [SettingDust INFO] 4/5 Try to load profile from 'SkinMe'.
+[2019-04-11 22:57:47] [SettingDust INFO] Try to request 'http://www.skinme.cc/uniskin/SettingDust.json'.
+[2019-04-11 22:57:47] [SettingDust INFO] Successfully request (Response Code: 200 , Content Length: -1)
+[2019-04-11 22:57:47] [SettingDust INFO] Saved to cache (Length: 37 , Path: 'F:\Minecraft\Adogsama\客户端\一周目\HamaGame\versions\HamaGame-1.0\CustomSkinLoader\caches\bf210352d6e3a7550721e87ba85140344b28ad14' , Expire: 1554994732)
+[2019-04-11 22:57:47] [SettingDust INFO] Content: {"errno":404,"msg":"User not found."}
+[2019-04-11 22:57:47] [SettingDust INFO] Error 404: User not found.
+[2019-04-11 22:57:47] [SettingDust INFO] 5/5 Try to load profile from 'LocalSkin'.
+[2019-04-11 22:57:47] [SettingDust INFO] Both skin and cape not found.
+[2019-04-11 22:57:47] [SettingDust INFO] SettingDust's profile not found in load list.
